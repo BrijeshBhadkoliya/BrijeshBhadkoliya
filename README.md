@@ -52,11 +52,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 ### Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://github.com/BrijeshBhadkoliya/BrijeshBhadkoliya/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
-</p>
-
+ 
 ---
 
 ## 📬 Let's Connect!
