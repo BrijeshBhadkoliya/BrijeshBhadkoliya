@@ -13,7 +13,7 @@
 ## 🚀 Tech Stack & Programming Languages
 
 ### 🖥️ Programming Languages
-![JavaScript](https://res.cloudinary.com/dgteut1q7/image/upload/v1741873673/logo-removebg-preview_wreblz.png)
+![JavaScript](https://res.cloudinary.com/dgteut1q7/image/upload/v1741873673/logo-removebg-preview_wreblz.png){ width=100px }
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
