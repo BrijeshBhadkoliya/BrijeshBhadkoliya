@@ -12,27 +12,27 @@
 ## 🚀 Tech Stack & Programming Languages
 
 ### 🖥️ Programming Languages
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873673/logo-removebg-preview_wreblz.png" width="150px">
-<img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/profile.png" width="150px">
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873673/C-removebg-preview_cf6svx.png" width="150px">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🖥️ Back-End Development
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873672/js-removebg-preview_1_ebtwsl.png" width="150px">
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873673/express-removebg-preview_by760r.png" width="150px">
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873674/soket-removebg-preview_kqslsh.png" width="150px">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🎨 Front-End Development
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873674/html-removebg-preview_wrz7ll.png" width="150px">
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873674/css-removebg-preview_paugjo.png" width="150px">
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873673/boot-removebg-preview_qbtsad.png" width="150px">
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873674/tailwing-removebg-preview_y2cwwd.png" width="150px">
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873674/sass-removebg-preview_oh85nx.png">
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873674/JQ-removebg-preview_akdehg.png" width="150px">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🗄️ Database & Storage
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741873673/db-removebg-preview_wmbbep.png" width="150px">
-<img src="https://res.cloudinary.com/dgteut1q7/image/upload/v1741874162/sql-removebg-preview_ymwtvk.png" width="150px">
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
  ## 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrijeshBhadkoliya&theme=highcontrast)
@@ -43,6 +43,6 @@
 
 
 ## 📬 Let's Connect!
-[![LinkedIn]<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahnESf8ak0W7eEvpDRTUYzG6UdmkKhcA55A&s" width="150px">(https://www.linkedin.com/in/brijesh-bhadkoliya-65454a29a/?originalSubdomain=in)
-[![GitHub]<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="150px">(https://github.com/BrijeshBhadkoliya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-bhadkoliya-65454a29a/?originalSubdomain=in)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrijeshBhadkoliya)
 
