@@ -1,4 +1,7 @@
 ## Hi there 👋 , I'm Brijesh Bhadkoliya
+# Hi, I'm Brijesh! 👋
+
+Welcome to my GitHub profile! 🚀
 
 🔹  Web Developer | Self Learner |
 🔹  Passionate about building ultra-fast & secure backend systems 
@@ -13,7 +16,7 @@
 ## 🚀 Tech Stack & Programming Languages
 
 ### 🖥️ Programming Languages
-![JavaScript](https://res.cloudinary.com/dgteut1q7/image/upload/v1741873673/logo-removebg-preview_wreblz.png){ width=100px }
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -39,7 +42,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrijeshBhadkoliya&theme=dark)
 
 ## 🔥  GitHub Stats
-![Brijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrijeshBhadkoliya&show_icons=true&theme=highcontrast)
+![Brijesh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BrijeshBhadkoliya&theme=dark)
 
 ## 🖥️  Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshBhadkoliya&layout=compact&theme=highcontrast)
