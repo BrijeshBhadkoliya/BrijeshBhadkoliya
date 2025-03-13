@@ -1,4 +1,5 @@
 ## Hi there 👋 , I'm Brijesh Bhadkoliya
+
 🔹  Web Developer | Self Learner |
 🔹  Passionate about building ultra-fast & secure backend systems 
 
@@ -35,10 +36,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
  ## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrijeshBhadkoliya&theme=highcontrast)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrijeshBhadkoliya&theme=dark)
+
+## 🔥  GitHub Stats
 ![Brijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrijeshBhadkoliya&show_icons=true&theme=highcontrast)
 
-
+## 🖥️  Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshBhadkoliya&layout=compact&theme=highcontrast)
 
 
