@@ -37,13 +37,13 @@ Welcome to my GitHub profile! Here’s a little about me:
 ## 🚀 GitHub Stats & Contributions
 
 ### 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrijeshBhadkoliya&theme=onedark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrijeshBhadkoliya)
 
 ### 📊 GitHub Stats
-![Brijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrijeshBhadkoliya&show_icons=true&theme=onedark&hide_border=true)
+![Brijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrijeshBhadkoliya&show_icons=true)
 
 ### 🏆 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshBhadkoliya&layout=compact&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshBhadkoliya&layout=compact)
 
 ---
 
